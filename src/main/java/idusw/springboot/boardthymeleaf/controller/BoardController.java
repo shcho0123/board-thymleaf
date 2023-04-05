@@ -1,4 +1,4 @@
-package idusw.springboot.boardthymeleaf.config;
+package idusw.springboot.boardthymeleaf.controller;
 
 public class BoardController {
 }
